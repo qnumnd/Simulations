@@ -50,8 +50,9 @@ surface = (
 )
 
 ### Filter based on threshold value (which decide relative density)
-t_threshold = 0
-mask = surface > 0
+volume_fraction = 0.3
+t_threshold = np.percentile(surface, volume_fraction * 100)
+mask = surface < t_threshold
 atoms = atoms[mask]
 
 print(
