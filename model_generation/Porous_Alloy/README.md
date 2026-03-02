@@ -25,6 +25,5 @@ Installation: pip, conda, uv or pixi
 Run: `python model_alloy.py`
 
 # References
-Van-Lam Nguyen, **Minh-Quan Doan**, Dang Thi Hong Hue, Van-Hai Dinh, Le Van Lich, "Mechanical behavior of high entropy alloys with gyroid nanostructures", *Intermetallics*, Volume 171, **2024**, 108348, ISSN 0966-9795
 
-**DOI:** [https://doi.org/10.1016/j.intermet.2024.108348 ](10.1016/j.intermet.2024.108348)
+- Van-Lam Nguyen, **Minh-Quan Doan**, Dang Thi Hong Hue, Van-Hai Dinh, Le Van Lich, "Mechanical behavior of high entropy alloys with gyroid nanostructures", *Intermetallics*, Volume 171, **2024**, 108348, ISSN 0966-9795. **DOI:** [10.1016/j.intermet.2024.108348 ](https://doi.org/10.1016/j.intermet.2024.108348)
